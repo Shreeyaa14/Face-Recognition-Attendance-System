@@ -19,8 +19,11 @@ This project is an automated Face Recognition–based Attendance System that ide
 * Data Storage: CSV files
 * Libraries Used: OpenCV, Scikit-learn, NumPy, Imutils, Pickle
 
-**OUTPUT**
-<img width="686" height="429" alt="Screenshot 2026-01-21 103909" src="https://github.com/user-attachments/assets/23a47f76-b5a0-4483-9c7e-57311ec5493a" />
-<img width="794" height="486" alt="Screenshot 2026-01-21 103859" src="https://github.com/user-attachments/assets/4f9099af-c48a-4df2-baf6-ef5a8dcdaecb" />
+**Output**
 Dataset Creation Images and Input Images are in the Files.
+
+<img width="686" height="429" alt="Screenshot 2026-01-21 103909" src="https://github.com/user-attachments/assets/23a47f76-b5a0-4483-9c7e-57311ec5493a" />
+
+<img width="794" height="486" alt="Screenshot 2026-01-21 103859" src="https://github.com/user-attachments/assets/4f9099af-c48a-4df2-baf6-ef5a8dcdaecb" />
+
 
