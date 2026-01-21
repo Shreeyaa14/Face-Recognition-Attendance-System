@@ -20,6 +20,7 @@ This project is an automated Face Recognition–based Attendance System that ide
 * Libraries Used: OpenCV, Scikit-learn, NumPy, Imutils, Pickle
 
 **Output**
+
 Dataset Creation Images and Input Images are in the Files.
 
 <img width="686" height="429" alt="Screenshot 2026-01-21 103909" src="https://github.com/user-attachments/assets/23a47f76-b5a0-4483-9c7e-57311ec5493a" />
